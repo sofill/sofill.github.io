@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\05\Calculator\Calculator\obj\Debug\Calculator.pdb

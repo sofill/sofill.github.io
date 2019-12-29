@@ -1,0 +1,7 @@
+package sophiaWorld;
+
+public class sophiaWorld {
+	public static void main(String[] args) {
+		System.out.println("Sophia hello love World");
+	}
+}

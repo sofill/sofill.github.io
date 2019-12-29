@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\bin\Debug\Calulator.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\bin\Debug\Calulator.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\bin\Debug\Calulator.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\obj\Debug\Calulator.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\obj\Debug\Calulator.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\obj\Debug\Calulator.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\06\Calulator\Calulator\obj\Debug\Calulator.pdb

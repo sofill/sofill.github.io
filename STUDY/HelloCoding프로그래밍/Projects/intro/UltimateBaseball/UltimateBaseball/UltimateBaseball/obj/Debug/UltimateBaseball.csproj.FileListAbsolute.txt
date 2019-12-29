@@ -1,0 +1,14 @@
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\Sophia\Desktop\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb

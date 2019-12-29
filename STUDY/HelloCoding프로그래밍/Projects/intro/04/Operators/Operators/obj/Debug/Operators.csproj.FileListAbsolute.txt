@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Operators\Operators\obj\Debug\Operators.pdb

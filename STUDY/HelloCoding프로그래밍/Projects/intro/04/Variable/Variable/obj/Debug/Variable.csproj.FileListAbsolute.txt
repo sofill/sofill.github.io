@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\bin\Debug\Variable.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\bin\Debug\Variable.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\obj\Debug\Variable.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\Variable\Variable\obj\Debug\Variable.pdb

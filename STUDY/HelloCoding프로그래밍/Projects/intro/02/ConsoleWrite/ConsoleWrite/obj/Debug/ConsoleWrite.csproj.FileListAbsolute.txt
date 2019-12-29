@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csprojAssemblyReference.cache
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\Sophia\Desktop\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

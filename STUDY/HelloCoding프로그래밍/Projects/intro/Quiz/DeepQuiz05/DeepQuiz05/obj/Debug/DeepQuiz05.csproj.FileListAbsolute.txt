@@ -1,0 +1,6 @@
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\bin\Debug\DeepQuiz05.exe.config
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\bin\Debug\DeepQuiz05.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\bin\Debug\DeepQuiz05.pdb
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\obj\Debug\DeepQuiz05.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\obj\Debug\DeepQuiz05.exe
+C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\DeepQuiz05\DeepQuiz05\obj\Debug\DeepQuiz05.pdb
