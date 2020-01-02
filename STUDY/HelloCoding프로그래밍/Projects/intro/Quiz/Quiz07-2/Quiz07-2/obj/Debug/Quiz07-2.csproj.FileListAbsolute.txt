@@ -1,6 +1,0 @@
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\bin\Debug\Quiz07-2.exe.config
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\bin\Debug\Quiz07-2.exe
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\bin\Debug\Quiz07-2.pdb
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\obj\Debug\Quiz07-2.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\obj\Debug\Quiz07-2.exe
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\Quiz\Quiz07-2\Quiz07-2\obj\Debug\Quiz07-2.pdb

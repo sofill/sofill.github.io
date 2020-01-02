@@ -1,7 +1,0 @@
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\bin\Debug\DebugDemo.exe.config
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\bin\Debug\DebugDemo.exe
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\bin\Debug\DebugDemo.pdb
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\obj\Debug\DebugDemo.csprojAssemblyReference.cache
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\obj\Debug\DebugDemo.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\obj\Debug\DebugDemo.exe
-C:\Users\Sophia\Desktop\HelloCoding프로그래밍\Projects\intro\04\DebugDemo\DebugDemo\obj\Debug\DebugDemo.pdb
